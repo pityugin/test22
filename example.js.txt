@@ -1,0 +1,4 @@
+// JavaScriptファイル example.js
+function hello() {
+  alert("Hello, World!");
+}
